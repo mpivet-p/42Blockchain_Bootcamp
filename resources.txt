@@ -1,0 +1,9 @@
+# Ethereum Address Generation:
+https://hackernoon.com/how-to-generate-ethereum-addresses-technical-address-generation-explanation-25r3zqo
+https://ethereum.stackexchange.com/questions/3542/how-are-ethereum-addresses-generated/3619#3619
+
+# Keccak in python:
+https://stackoverflow.com/questions/46279121/how-can-i-find-keccak-256-hash-in-python/46279252
+
+
+Next ideas : Generate BIP39 mnemonic for metamask importation
